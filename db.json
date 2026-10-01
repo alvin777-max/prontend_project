@@ -1,0 +1,893 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "홍길동",
+      "birth": "2008-03-12",
+      "phone": "010-1234-5678",
+      "attendance": 95,
+      "scores": {
+        "korean": 90,
+        "english": 85,
+        "math": 92
+      },
+      "progress": {
+        "korean": 80,
+        "english": 70,
+        "math": 90
+      },
+      "exams": {
+        "korean": [
+          {
+            "exam": 1,
+            "score": 82
+          },
+          {
+            "exam": 2,
+            "score": 85
+          },
+          {
+            "exam": 3,
+            "score": 88
+          },
+          {
+            "exam": 4,
+            "score": 90
+          }
+        ],
+        "english": [
+          {
+            "exam": 1,
+            "score": 75
+          },
+          {
+            "exam": 2,
+            "score": 78
+          },
+          {
+            "exam": 3,
+            "score": 82
+          },
+          {
+            "exam": 4,
+            "score": 85
+          }
+        ],
+        "math": [
+          {
+            "exam": 1,
+            "score": 72
+          },
+          {
+            "exam": 2,
+            "score": 78
+          },
+          {
+            "exam": 3,
+            "score": 85
+          },
+          {
+            "exam": 4,
+            "score": 92
+          }
+        ]
+      },
+      "memo": "수학 과목의 이해도가 높음"
+    },
+    {
+      "id": "2",
+      "name": "김철수",
+      "birth": "2008-07-21",
+      "phone": "010-2345-6789",
+      "attendance": 91,
+      "scores": {
+        "korean": 85,
+        "english": 80,
+        "math": 84
+      },
+      "progress": {
+        "korean": 75,
+        "english": 70,
+        "math": 80
+      },
+      "exams": {
+        "korean": [
+          {
+            "exam": 1,
+            "score": 78
+          },
+          {
+            "exam": 2,
+            "score": 80
+          },
+          {
+            "exam": 3,
+            "score": 82
+          },
+          {
+            "exam": 4,
+            "score": 85
+          }
+        ],
+        "english": [
+          {
+            "exam": 1,
+            "score": 72
+          },
+          {
+            "exam": 2,
+            "score": 76
+          },
+          {
+            "exam": 3,
+            "score": 78
+          },
+          {
+            "exam": 4,
+            "score": 80
+          }
+        ],
+        "math": [
+          {
+            "exam": 1,
+            "score": 76
+          },
+          {
+            "exam": 2,
+            "score": 80
+          },
+          {
+            "exam": 3,
+            "score": 82
+          },
+          {
+            "exam": 4,
+            "score": 84
+          }
+        ]
+      },
+      "memo": "성실하며 질문이 많고 학습 태도가 훌륭함"
+    },
+    {
+      "id": "3",
+      "name": "이영희",
+      "birth": "2009-01-05",
+      "phone": "010-3456-7890",
+      "attendance": 97,
+      "scores": {
+        "korean": 88,
+        "english": 86,
+        "math": 78
+      },
+      "progress": {
+        "korean": 95,
+        "english": 90,
+        "math": 88
+      },
+      "exams": {
+        "korean": [
+          {
+            "exam": 1,
+            "score": 80
+          },
+          {
+            "exam": 2,
+            "score": 84
+          },
+          {
+            "exam": 3,
+            "score": 86
+          },
+          {
+            "exam": 4,
+            "score": 88
+          }
+        ],
+        "english": [
+          {
+            "exam": 1,
+            "score": 82
+          },
+          {
+            "exam": 2,
+            "score": 83
+          },
+          {
+            "exam": 3,
+            "score": 85
+          },
+          {
+            "exam": 4,
+            "score": 86
+          }
+        ],
+        "math": [
+          {
+            "exam": 1,
+            "score": 70
+          },
+          {
+            "exam": 2,
+            "score": 74
+          },
+          {
+            "exam": 3,
+            "score": 75
+          },
+          {
+            "exam": 4,
+            "score": 78
+          }
+        ]
+      },
+      "memo": "어학 및 인문학적 사고력이 매우 뛰어남"
+    },
+    {
+      "id": "4",
+      "name": "박민수",
+      "birth": "2008-11-18",
+      "phone": "010-4567-8901",
+      "attendance": 88,
+      "scores": {
+        "korean": 75,
+        "english": 80,
+        "math": 80
+      },
+      "progress": {
+        "korean": 68,
+        "english": 72,
+        "math": 75
+      },
+      "exams": {
+        "korean": [
+          {
+            "exam": 1,
+            "score": 68
+          },
+          {
+            "exam": 2,
+            "score": 70
+          },
+          {
+            "exam": 3,
+            "score": 72
+          },
+          {
+            "exam": 4,
+            "score": 75
+          }
+        ],
+        "english": [
+          {
+            "exam": 1,
+            "score": 74
+          },
+          {
+            "exam": 2,
+            "score": 76
+          },
+          {
+            "exam": 3,
+            "score": 78
+          },
+          {
+            "exam": 4,
+            "score": 80
+          }
+        ],
+        "math": [
+          {
+            "exam": 1,
+            "score": 75
+          },
+          {
+            "exam": 2,
+            "score": 76
+          },
+          {
+            "exam": 3,
+            "score": 79
+          },
+          {
+            "exam": 4,
+            "score": 80
+          }
+        ]
+      },
+      "memo": "기초 개념 복습이 꾸준히 필요함"
+    },
+    {
+      "id": "5",
+      "name": "최지은",
+      "birth": "2009-05-30",
+      "phone": "010-5678-9012",
+      "attendance": 93,
+      "scores": {
+        "korean": 82,
+        "english": 79,
+        "math": 82
+      },
+      "progress": {
+        "korean": 85,
+        "english": 82,
+        "math": 88
+      },
+      "exams": {
+        "korean": [
+          {
+            "exam": 1,
+            "score": 75
+          },
+          {
+            "exam": 2,
+            "score": 78
+          },
+          {
+            "exam": 3,
+            "score": 80
+          },
+          {
+            "exam": 4,
+            "score": 82
+          }
+        ],
+        "english": [
+          {
+            "exam": 1,
+            "score": 70
+          },
+          {
+            "exam": 2,
+            "score": 74
+          },
+          {
+            "exam": 3,
+            "score": 76
+          },
+          {
+            "exam": 4,
+            "score": 79
+          }
+        ],
+        "math": [
+          {
+            "exam": 1,
+            "score": 78
+          },
+          {
+            "exam": 2,
+            "score": 80
+          },
+          {
+            "exam": 3,
+            "score": 81
+          },
+          {
+            "exam": 4,
+            "score": 82
+          }
+        ]
+      },
+      "memo": "집중력이 좋고 과제 제출이 매우 빠름"
+    },
+    {
+      "id": "6",
+      "name": "정우진",
+      "birth": "2008-02-14",
+      "phone": "010-6789-0123",
+      "attendance": 96,
+      "scores": {
+        "korean": 94,
+        "english": 91,
+        "math": 95
+      },
+      "progress": {
+        "korean": 95,
+        "english": 92,
+        "math": 98
+      },
+      "exams": {
+        "korean": [
+          {
+            "exam": 1,
+            "score": 88
+          },
+          {
+            "exam": 2,
+            "score": 90
+          },
+          {
+            "exam": 3,
+            "score": 92
+          },
+          {
+            "exam": 4,
+            "score": 94
+          }
+        ],
+        "english": [
+          {
+            "exam": 1,
+            "score": 85
+          },
+          {
+            "exam": 2,
+            "score": 88
+          },
+          {
+            "exam": 3,
+            "score": 89
+          },
+          {
+            "exam": 4,
+            "score": 91
+          }
+        ],
+        "math": [
+          {
+            "exam": 1,
+            "score": 90
+          },
+          {
+            "exam": 2,
+            "score": 92
+          },
+          {
+            "exam": 3,
+            "score": 94
+          },
+          {
+            "exam": 4,
+            "score": 95
+          }
+        ]
+      },
+      "memo": "전 과목 고른 우수 성적을 유지함"
+    },
+    {
+      "id": "7",
+      "name": "강서연",
+      "birth": "2008-09-09",
+      "phone": "010-7890-1234",
+      "attendance": 98,
+      "scores": {
+        "korean": 92,
+        "english": 95,
+        "math": 88
+      },
+      "progress": {
+        "korean": 90,
+        "english": 96,
+        "math": 85
+      },
+      "exams": {
+        "korean": [
+          {
+            "exam": 1,
+            "score": 86
+          },
+          {
+            "exam": 2,
+            "score": 88
+          },
+          {
+            "exam": 3,
+            "score": 90
+          },
+          {
+            "exam": 4,
+            "score": 92
+          }
+        ],
+        "english": [
+          {
+            "exam": 1,
+            "score": 90
+          },
+          {
+            "exam": 2,
+            "score": 92
+          },
+          {
+            "exam": 3,
+            "score": 94
+          },
+          {
+            "exam": 4,
+            "score": 95
+          }
+        ],
+        "math": [
+          {
+            "exam": 1,
+            "score": 82
+          },
+          {
+            "exam": 2,
+            "score": 84
+          },
+          {
+            "exam": 3,
+            "score": 86
+          },
+          {
+            "exam": 4,
+            "score": 88
+          }
+        ]
+      },
+      "memo": "영어 회화 및 독해 능력이 탁월함"
+    },
+    {
+      "id": "8",
+      "name": "윤도현",
+      "birth": "2009-04-17",
+      "phone": "010-8901-2345",
+      "attendance": 89,
+      "scores": {
+        "korean": 70,
+        "english": 75,
+        "math": 80
+      },
+      "progress": {
+        "korean": 65,
+        "english": 68,
+        "math": 72
+      },
+      "exams": {
+        "korean": [
+          {
+            "exam": 1,
+            "score": 62
+          },
+          {
+            "exam": 2,
+            "score": 65
+          },
+          {
+            "exam": 3,
+            "score": 68
+          },
+          {
+            "exam": 4,
+            "score": 70
+          }
+        ],
+        "english": [
+          {
+            "exam": 1,
+            "score": 68
+          },
+          {
+            "exam": 2,
+            "score": 70
+          },
+          {
+            "exam": 3,
+            "score": 73
+          },
+          {
+            "exam": 4,
+            "score": 75
+          }
+        ],
+        "math": [
+          {
+            "exam": 1,
+            "score": 72
+          },
+          {
+            "exam": 2,
+            "score": 75
+          },
+          {
+            "exam": 3,
+            "score": 78
+          },
+          {
+            "exam": 4,
+            "score": 80
+          }
+        ]
+      },
+      "memo": "학습 참여도가 상승세에 있음"
+    },
+    {
+      "id": "9",
+      "name": "임하은",
+      "birth": "2008-12-03",
+      "phone": "010-9012-3456",
+      "attendance": 94,
+      "scores": {
+        "korean": 87,
+        "english": 89,
+        "math": 84
+      },
+      "progress": {
+        "korean": 85,
+        "english": 88,
+        "math": 80
+      },
+      "exams": {
+        "korean": [
+          {
+            "exam": 1,
+            "score": 80
+          },
+          {
+            "exam": 2,
+            "score": 83
+          },
+          {
+            "exam": 3,
+            "score": 85
+          },
+          {
+            "exam": 4,
+            "score": 87
+          }
+        ],
+        "english": [
+          {
+            "exam": 1,
+            "score": 82
+          },
+          {
+            "exam": 2,
+            "score": 85
+          },
+          {
+            "exam": 3,
+            "score": 87
+          },
+          {
+            "exam": 4,
+            "score": 89
+          }
+        ],
+        "math": [
+          {
+            "exam": 1,
+            "score": 78
+          },
+          {
+            "exam": 2,
+            "score": 80
+          },
+          {
+            "exam": 3,
+            "score": 82
+          },
+          {
+            "exam": 4,
+            "score": 84
+          }
+        ]
+      },
+      "memo": "자기주도 학습 능력이 뛰어남"
+    },
+    {
+      "id": "10",
+      "name": "송민호",
+      "birth": "2008-06-25",
+      "phone": "010-0123-4567",
+      "attendance": 92,
+      "scores": {
+        "korean": 80,
+        "english": 82,
+        "math": 75
+      },
+      "progress": {
+        "korean": 75,
+        "english": 78,
+        "math": 70
+      },
+      "exams": {
+        "korean": [
+          {
+            "exam": 1,
+            "score": 74
+          },
+          {
+            "exam": 2,
+            "score": 76
+          },
+          {
+            "exam": 3,
+            "score": 78
+          },
+          {
+            "exam": 4,
+            "score": 80
+          }
+        ],
+        "english": [
+          {
+            "exam": 1,
+            "score": 76
+          },
+          {
+            "exam": 2,
+            "score": 78
+          },
+          {
+            "exam": 3,
+            "score": 80
+          },
+          {
+            "exam": 4,
+            "score": 82
+          }
+        ],
+        "math": [
+          {
+            "exam": 1,
+            "score": 70
+          },
+          {
+            "exam": 2,
+            "score": 72
+          },
+          {
+            "exam": 3,
+            "score": 74
+          },
+          {
+            "exam": 4,
+            "score": 75
+          }
+        ]
+      },
+      "memo": "수학 과목 오답 노트 관리 지도 요망"
+    },
+    {
+      "id": "11",
+      "name": "한지민",
+      "birth": "2009-08-11",
+      "phone": "010-1122-3344",
+      "attendance": 99,
+      "scores": {
+        "korean": 96,
+        "english": 98,
+        "math": 94
+      },
+      "progress": {
+        "korean": 98,
+        "english": 98,
+        "math": 95
+      },
+      "exams": {
+        "korean": [
+          {
+            "exam": 1,
+            "score": 92
+          },
+          {
+            "exam": 2,
+            "score": 94
+          },
+          {
+            "exam": 3,
+            "score": 95
+          },
+          {
+            "exam": 4,
+            "score": 96
+          }
+        ],
+        "english": [
+          {
+            "exam": 1,
+            "score": 94
+          },
+          {
+            "exam": 2,
+            "score": 96
+          },
+          {
+            "exam": 3,
+            "score": 97
+          },
+          {
+            "exam": 4,
+            "score": 98
+          }
+        ],
+        "math": [
+          {
+            "exam": 1,
+            "score": 88
+          },
+          {
+            "exam": 2,
+            "score": 90
+          },
+          {
+            "exam": 3,
+            "score": 92
+          },
+          {
+            "exam": 4,
+            "score": 94
+          }
+        ]
+      },
+      "memo": "모범적인 출결과 최고 수준의 학업 성취도"
+    },
+    {
+      "id": "12",
+      "name": "조현우",
+      "birth": "2008-10-30",
+      "phone": "010-2233-4455",
+      "attendance": 90,
+      "scores": {
+        "korean": 78,
+        "english": 80,
+        "math": 85
+      },
+      "progress": {
+        "korean": 76,
+        "english": 78,
+        "math": 82
+      },
+      "exams": {
+        "korean": [
+          {
+            "exam": 1,
+            "score": 72
+          },
+          {
+            "exam": 2,
+            "score": 74
+          },
+          {
+            "exam": 3,
+            "score": 76
+          },
+          {
+            "exam": 4,
+            "score": 78
+          }
+        ],
+        "english": [
+          {
+            "exam": 1,
+            "score": 75
+          },
+          {
+            "exam": 2,
+            "score": 77
+          },
+          {
+            "exam": 3,
+            "score": 78
+          },
+          {
+            "exam": 4,
+            "score": 80
+          }
+        ],
+        "math": [
+          {
+            "exam": 1,
+            "score": 78
+          },
+          {
+            "exam": 2,
+            "score": 80
+          },
+          {
+            "exam": 3,
+            "score": 82
+          },
+          {
+            "exam": 4,
+            "score": 85
+          }
+        ]
+      },
+      "memo": "수학 과목에 대한 흥미와 성취도 증가 중"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
