@@ -32,7 +32,7 @@
 
 ### 성적 분석 화면
 
-![성적 분석 화면](./docs/localhost_3000_analytics (1).png)
+![성적 분석 화면](./docs/localhost_3000_analytics(1).png)
 
 학생과 과목을 선택해 회차별 성적 변화를 확인합니다.
 
